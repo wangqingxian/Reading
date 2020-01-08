@@ -79,6 +79,8 @@
 
 [Redis 教程](http://www.runoob.com/redis/redis-tutorial.html)
 
+[Redis 必会只是以及场景实用](https://learnku.com/articles/25275)
+
 [Redis 深度历险：核心原理与应用实践](https://juejin.im/book/5afc2e5f6fb9a07a9b362527)
 
 [互联网公司面试必问的Redis题目](https://juejin.im/post/5b99d4bce51d450e7a24b66e#heading-0)
